@@ -1,4 +1,6 @@
 # Yogurt-Game-master
 Coding_Test_CREATIVEEGG_변우영
 
-<img width = "80%" src = "file:///C:/Users/qusdn/Desktop/Coding%20Test%20_%20CREATIVEEGG/CREATIVEEGG%20RECRUITMENT.pdf">
+<img width = "80%" src="https://user-images.githubusercontent.com/16822641/109461495-913fc480-7aa5-11eb-9d0e-aff762669f98.gif>
+
+
