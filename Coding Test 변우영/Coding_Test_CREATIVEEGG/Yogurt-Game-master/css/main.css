@@ -1,0 +1,18 @@
+body, html { 
+    margin: 0;
+    padding: 0;
+    height: 100%;
+    background-image: url('../image/배경.jpg');
+    border: 0;
+    min-height: 100%;
+    background-position: center;
+    background-size: cover;
+}
+
+canvas {
+    background-image: url('../image/윷놀이판.jpg');
+    background-size: cover;
+}
+
+
+
